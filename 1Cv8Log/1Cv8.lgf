@@ -9,4 +9,12 @@ d5a39e70-25df-4601-b831-066f2d6e3b7d
 {4,"_$Session$_.Start",2},
 {4,"_$InfoBase$_.RestoreStart",3},
 {4,"_$Session$_.Finish",4},
-{4,"_$InfoBase$_.RestoreFinish",5}
+{4,"_$InfoBase$_.RestoreFinish",5},
+{2,"PC",2},
+{13,2,1},
+{4,"_$InfoBase$_.DBConfigUpdateStart",6},
+{4,"_$InfoBase$_.PredefinedDataUpdate",7},
+{5,6a774910-dd60-4987-a812-6981d219ce2e,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",8},
+{3,"1CV8C",2},
+{4,"_$InfoBase$_.ConfigUpdate",9}
